@@ -1,4 +1,4 @@
-👋   Hey, I’m @mesadiazignacio from Buenos Aires, Argentina.
-👨🏻‍💻   Not working yet, but looking for a job.
-🌱   Currently working with React, NodeJS and TypeScript.
-📫   You can reach me at mesadiazignacio@gmail.com or LinkedIn.
+- 👋   Hey, I’m @mesadiazignacio from Buenos Aires, Argentina.
+- 👨🏻‍💻   Not working yet, but looking for a job.
+- 🌱   Currently working with React, NodeJS and TypeScript.
+- 📫   You can reach me at mesadiazignacio@gmail.com or LinkedIn.
